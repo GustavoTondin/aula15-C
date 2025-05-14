@@ -1,0 +1,14 @@
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.AssemblyInfoInputs.cache
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.AssemblyInfo.cs
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+d:\Projetos\LAB P\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.exe
+D:\Projetos\LAB P\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.deps.json
+D:\Projetos\LAB P\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.runtimeconfig.json
+d:\Projetos\LAB P\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.dll
+d:\Projetos\LAB P\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.pdb
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.dll
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\refint\ClasseAbstrata.dll
+d:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.pdb
+D:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.genruntimeconfig.cache
+D:\Projetos\LAB P\ClasseAbstrata\obj\Debug\net8.0\ref\ClasseAbstrata.dll
